@@ -13,7 +13,7 @@ O projeto tem autenticação completa, transações atômicas, tratamento global
 
 Código completo e documentado no GitHub — explico lá cada decisão técnica e por quê.
 
-🔗 [link do repositório]
+🔗 [https://github.com/moacirnascimento439/bank-transfer-api]
 
 Estou em busca de oportunidades como desenvolvedor Java, com interesse especial no setor bancário. Se seu time está contratando ou se você tiver feedback sobre o projeto, ficarei muito feliz em conversar!
 
